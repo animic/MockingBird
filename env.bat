@@ -10,4 +10,6 @@ python -m pip install  -i https://pypi.tuna.tsinghua.edu.cn/simple torch==1.10.0
 
 python -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
 
+python -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple webrtcvad-wheels
+
 popd
